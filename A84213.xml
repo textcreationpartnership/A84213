@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the bloody and barbarous murder, committed by Miles Lewis, and his wife, a pi[n]m[a]ker upon their prentice, dwelling in Barnsby-street in S[o]uthwark. Wherein is declared, the manner of his cruell tortures, shewing how he was whipt with rods of wire, and put to death with red-hot irons; the like never heard of before in any age. Also, the examination of this bloody woman before the Justice; with her charge and accusation, laid open against her. Witnesse [brace] John Newman, Jury-man of the Chaire. Thomas Walles, Stephen Robinson. Will. Robinson. Philip Henson. [brace] All jury men.</title>
+         </titleStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84213</idno><idno type="EEBO-CITATION">99861767</idno>
+  <idno type="VID">113912</idno>
+  <idno type="EEBO-PROQUEST">2240961613</idno>
+  
+            <idno type="STC">Wing E3684</idno>
+            <idno type="STC">Thomason E364_2</idno>
+            <idno type="STC">ESTC R201236</idno>
+            <idno type="PROQUEST">99861767</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861767e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113912)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E364[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the bloody and barbarous murder, committed by Miles Lewis, and his wife, a pi[n]m[a]ker upon their prentice, dwelling in Barnsby-street in S[o]uthwark. Wherein is declared, the manner of his cruell tortures, shewing how he was whipt with rods of wire, and put to death with red-hot irons; the like never heard of before in any age. Also, the examination of this bloody woman before the Justice; with her charge and accusation, laid open against her. Witnesse [brace] John Newman, Jury-man of the Chaire. Thomas Walles, Stephen Robinson. Will. Robinson. Philip Henson. [brace] All jury men.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Novemb. 30. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Several letters in the title have failed to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lewis, Miles.</term>
+               <term type="topical_term">Murder --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113912:1"/>
+            <p>AN EXACT RELATION OF THE Bloody and Barbarous Murder, com<g ref="char:EOLhyphen"/>mitted by <hi>Miles Lewis,</hi> and his Wife, a Pi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker upon their Prentice, dwelling in <hi>Barnsby-street</hi> in <hi>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uthwark.</hi>
+            </p>
+            <p>WHEREIN IS DECLARED, The manner of his cruell Tortures, shewing how he were whipt with Rods of Wire and put to death with red-hot Irons; the like never heard of before in any Age.</p>
+            <p>ALSO, The <hi>Examination</hi> of this bloody woman before the Justice; with her Charge and Accusation, laid open against her.</p>
+            <p>Witnesse
+<list>
+                  <item>
+                     <hi>John Newman,</hi> Jury-man of the Chaire.</item>
+                  <item>
+                     <hi>Thomas Walles,</hi> All Jury-men.</item>
+                  <item>
+                     <hi>Stephen Robinson</hi> All Jury-men.</item>
+                  <item>
+                     <hi>Will. Robinson.</hi> All Jury-men.</item>
+                  <item>
+                     <hi>Philip Henson.</hi> All Jury-men.</item>
+               </list>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. C. Novemb.</hi> 30. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113912:2"/>
+            <pb n="1" facs="tcp:113912:2"/>
+            <div type="part">
+               <head>AN EXACT RELATION OF The most bloudy and inhumane Mur<g ref="char:EOLhyphen"/>der committed by MILES LEWIS and his wife, living in Southwark, upon a poor Father<g ref="char:EOLhyphen"/>lesse Boy of 12. years of Age; the like never heard of before.</head>
+               <p>THE great and manifold Massacres and inhumane Murders that are now dayly compoltted and enact<g ref="char:EOLhyphen"/>ed (by the Instruments of Sathan) in these our latter times, are almost innumera<g ref="char:EOLhyphen"/>ble, and may be a chiefe object to put into the
+<pb n="2" facs="tcp:113912:3"/>hearts of every true Christian a me moriall ob<g ref="char:EOLhyphen"/>servation; yes may bee parallel'd with former ages: For who can deny, but that in all ages many bloudy Calmes, and most insolent and barbarous actions have been most inveterate<g ref="char:EOLhyphen"/>ly enacted and executed upon many poore innocent Soules; yet, although we have thou<g ref="char:EOLhyphen"/>sands of Examples, and many fore-warnings dayly and hourly made manifest to us, wee cannot be withdrawn, nor with a bold resolu<g ref="char:EOLhyphen"/>tion fixe our hearts and minds against these allurements of the Divell, but must yeeld and prosecute his ever-confounding designes and projects, as will be too clearly made manifest by these ensuing lines.</p>
+               <p>Therefore, for the generall satisfaction of all people, that desires to have this sad and la<g ref="char:EOLhyphen"/>mentable story communicated to them, I shall begin with the miserable sufferings, and un<g ref="char:EOLhyphen"/>heard of tortures, which were with such inso<g ref="char:EOLhyphen"/>lence and rigour executed upon a poor friend<g ref="char:EOLhyphen"/>lesse boy (about twelve years of age) by his mercilesse Master and Mistresse, who lived in the Burrough of Southwark, in Barnsby-street, in the Parish of St. Mary Maudling; the par<g ref="char:EOLhyphen"/>ticulars whereof followeth:</p>
+               <pb n="3" facs="tcp:113912:3"/>
+               <p>This Miles Lewis, a Pin-makere, living in Barnsby-street as aforesaid, a man of good re<g ref="char:EOLhyphen"/>putation, and well beloved amongst his neigh<g ref="char:EOLhyphen"/>bours, having entertained and took to preu<g ref="char:EOLhyphen"/>tice a poor Fatherlesse Boy, who after a few weeks past, he began to feel much hardship &amp; cruelty, being kept close to his work, &amp; with most bitter and cruel usage tormented him, not only with his intollerable oppressions of bodi<g ref="char:EOLhyphen"/>ly labour, but also for want of food and nou<g ref="char:EOLhyphen"/>rishment for his supportment; for hardly once in foure or five dayes had he half his belly full of bread, but beat him with cudgels, &amp; broom sticks, sometimes pinching of him, and whip<g ref="char:EOLhyphen"/>ping him with rods of wire, till the verybloud ran down his heeles, hayling him up &amp; down the house by the haire of his head: such mise<g ref="char:EOLhyphen"/>rable and inhumane actions were never heard of before, since the memory of man.</p>
+               <p>All this being so rigorously executed by the aforesaid Lewis and his wife, and having not fully brought to peerfection their most horrid and bloody conspiracy; they began againe to execute their malicious Designes; for his Ma<g ref="char:EOLhyphen"/>ster perceiving, that the Boy began to faile in his work; and not able to performe that which
+<pb n="4" facs="tcp:113912:4"/>his wicked and inveterate spirit did thirst after, prepa<g ref="char:EOLhyphen"/>red divers cords, and taking his opportunity, took him by the arme pits, and hanged him up a great distance from the ground, and then with grievous blowes tor<g ref="char:EOLhyphen"/>mented the boy; so that it was impossible for any poor Christian to endure the misery of such stripes. Where<g ref="char:EOLhyphen"/>upon the boy being notable to undergoe the misery a<g ref="char:EOLhyphen"/>ny longer, and striving to get his armes out, his necke slided into the noose, where he hanged a long time, till at the last they could perceive him to draw no breath at all.</p>
+               <p>Then his Master cut the ropes, and let him down, ut<g ref="char:EOLhyphen"/>tering these speeches:</p>
+               <p>Sirrah, I will save you now from death (but with more additionall tortures) for the took four or five hot Irons, which he had laid in the fire, and laid them red-hot to his feet, scorching him so pittiously, that with the very extremity and cruelty of the heat, the boy cast up his eyes, uttering many a sad and wofull groan. Oh the cruelty and barbarousnesse of man! what Villaine or Infidell could do more?</p>
+               <p>But this were not all; for when the Master had pro<g ref="char:EOLhyphen"/>secuted his barbarous designe upon the poor boy, the Mistresse she comes on with a second addition of tor<g ref="char:EOLhyphen"/>tures, taking many hot Irons, and burning his flesh in severall places; so that at the last, he gave up the ghost, having continued a long time under these heavie and oppressed tortures.</p>
+               <p>But, during the time of his great and miscrable affli<g ref="char:EOLhyphen"/>ctions, some of the neighbours hearing his dolefull and lamentable cry, came to his Master and Mistresse, desi<g ref="char:EOLhyphen"/>ring them to mittigate their wrath, and not to deal with
+<pb n="5" facs="tcp:113912:4"/>him so barbarously: But all would not serve; for while he had any life, hee were daily and hourly under their heavie oppressions, till at the last, it pleased the great God of heaven to ease him of his heavie burthens, and to take him to himself; and being dead, divers of the Neighbours came in, and having a great suspition of Lewis and his wife, by reason of their former cruelties, and hard usage towards him, they searched the boy, and finding his armes and sides most miserably beaten and bruised, and two mortall wounds in his head, and most lamentably mortified in all parts of his body; for where the flesh was burnt and scorched with the fire, it was most cruelly festered, and in such a manner, that it stroke terrour to the hearts of all the Spectators.</p>
+               <p>Whereupon the Neighbours for feare of being guil<g ref="char:EOLhyphen"/>ty of the least crime, in concealing this suspected mur<g ref="char:EOLhyphen"/>der, went to the Justice, and acquainted him with what had happened.</p>
+               <p>Whereupon the Justice immediatly sent for this <hi>Lewis</hi> and his wife, and also a little Girle that were their pren<g ref="char:EOLhyphen"/>tice, but the man had made an escape, and were gone, which made their cause so much the worse, and to bee the more suspected. But at the last, the woman and the girle appeared before the Justice, where the girle was examined, and being loath to speake, the Justice began to threaten her; she replyed again, that shee would wil<g ref="char:EOLhyphen"/>lingly declare what she knew, but she durst not, by rea<g ref="char:EOLhyphen"/>son her Dame was there.</p>
+               <p>But being again urged by the Justice, shee replyed, and made answer to this effect; That her Master and Mistresse had beaten him with cudgels, and broome-sticks, and burnt him with hot Irons, and hanged him
+<pb n="6" facs="tcp:113912:5"/>up with ropes and cords, and there whipped him; and that her Mistresse kept many rods of wite to whip them, till the blood gushed forth, and dissued down their heeles.</p>
+               <p>This being affirmed, and testified before the Justice, and the rest of the Jury, the woman was presently com<g ref="char:EOLhyphen"/>mitted to prison, and the Girle acquitted, and set free: &amp; no doubt but she will severely suffer fore his misdeed, and barbarous Crime, which she hath so notoriously executed upon this poor prentice.</p>
+               <closer>
+                  <signed>VVitnesse
+<list>
+                        <item>
+                           <hi>John Newman,</hi> Jury-man of the Jury.</item>
+                        <item>
+                           <hi>Thomas Walles,</hi> All Jury-men.</item>
+                        <item>
+                           <hi>Stephen Robinson</hi> All Jury-men.</item>
+                        <item>
+                           <hi>Will. Robinson.</hi> All Jury-men.</item>
+                        <item>
+                           <hi>Philip Henson.</hi> All Jury-men.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:113912:5"/>
+               <head>THE whole proceedings of the barbarous and inhumane demolishing of the Earle of ESSEX Tombe, on Thursday night last, November 26. 1646. with a Cronicle of the English Warres.</head>
+               <p>ON Thursday night November the 26. 1646. about 7. of the Clock; His Excellency the Lord Generall <hi>Robert</hi> Earle of <hi>Essex</hi> his Hearse in the Chancel of Westminister Abby, with his effu<g ref="char:EOLhyphen"/>ges, and all the Flags, and all things belonging thereto was seen by severall persons to be whole, and nothing thereof spoyled, or demolished.</p>
+               <p>Immediately after which, the doores were all shut, both of the place where the Hearse stood, and also of the Abby: and the Clock Keeper having locked all the outward doores went to bed, who lay (as he useth to do) in a Chamber beyond the Clock house in the Ab<g ref="char:EOLhyphen"/>by, leaving all things safe, and (as he thought secure) till the next morning.</p>
+               <p>On Fryday November 27. The said Clock keeper rose a little after 5. of the Clock in the morning, and o<g ref="char:EOLhyphen"/>pened first one doore, and then another, after which
+<pb facs="tcp:113912:6"/>some men of the Trayne Band, who stood at the doore, as he opened the North doore, (who were to waite on the Parliament House that day) seeing it opened, one of them said to the rest: that if they would go into the Abby, they might see the Earle of <hi>Essex</hi> his Hearse, may we so said another, yea said he, any man may see the Hearse for the doore is open, which accordingly they did; entering with an expectation to see it, as a<g ref="char:EOLhyphen"/>foresaid.</p>
+               <p>When they came to the place where this Noble Lords Effuges lay, they were much amazed seeing it all broken, and rent in this manner.</p>
+               <p n="1">1. The head was pulled off, and broken to pee<g ref="char:EOLhyphen"/>ces.</p>
+               <p n="2">2. His Buffe Coate was slit upon the breast, from one end to the other.</p>
+               <p n="3">3. The Scarlet Breeches were also cut and split.</p>
+               <p n="4">4. His Bootes were slit, and cut along the legs of them.</p>
+               <p n="5">5. His band was thrown downe upon the ground, but not cut nor torne.</p>
+               <p n="6">6. His Sword was broken in 3 peeces, which was the same Sword that he wore in the field.</p>
+               <p n="7">7. His Parliament Robes were thrown down, but not cut nor torne.</p>
+               <p n="8">8. All his Fffages was defased and thrown down, but nothing thereof (at all) missing, done (as is suppo<g ref="char:EOLhyphen"/>sed) with Swords,</p>
+               <p>The Belringer seeing this strange accident was no little astonished, about 6. of the Clock he called up someother Officers of that place; who coming thither found all things in a barbarous disorder as is before ex<g ref="char:EOLhyphen"/>prest;
+<pb facs="tcp:113912:6"/>and the lock of the place (where the hearse stood) broken.</p>
+               <p>They searched about the Church, and made enquiry about the businesse, but could not finde, nor attaine to the knowledge of any that had done this inhumane action.</p>
+               <p>But by search of the other monuments they found the good ould Chambdens monument, (who was King of Armes) defased, the nose of the Effuges cut off, the ruffe about his neck hacked and cut, his Britania (in his hand) hacked and cut, and the end of some of his fingers cut off.</p>
+               <p>It is supposed, that there were a company of villaine (for no honest men can have better thoughts of them that lay in some of the pewes all night, and when the doores were locked, and the bell ringer gone to bed, that then they did this vill any, &amp; when the doores were opened in the morning (it being dark) when hee had o<g ref="char:EOLhyphen"/>pened one door, and was going to another, they might easily escape away.</p>
+               <p>The Abby hath been formerly robbed, and Copes and other things stollen out, and the bell ringer hea<g ref="char:EOLhyphen"/>ring them in the night rung the bell, though hee durst not venture amongst them; yet afterwards they were discovered and taken, and hanged at Tiburn: And per<g ref="char:EOLhyphen"/>haps these also may be discovered &amp; brought to know<g ref="char:EOLhyphen"/>ledge.</p>
+               <p>Many deliver their thoughts what kind of persons they conceive these villaines are: the opinions are such as these.</p>
+               <p>That these were some that did it meerly out of spite and malice, because they spoiled much, but carried no<g ref="char:EOLhyphen"/>things
+<pb facs="tcp:113912:7"/>away. But whether it was done by prelatical per<g ref="char:EOLhyphen"/>son in despite of the Officers profit, or by Jesuite per<g ref="char:EOLhyphen"/>sons in despite of the Patliament, or of some grudge a<g ref="char:EOLhyphen"/>gainst those Families, none can tell. But must probably (it is conceived) that they were Jesuited Cavaliers, that did it out of inveterate malice against the Parliament, and the Cause of the people of God.</p>
+               <p>It was intended within 3 or 4 dayes, that the Hearse should have been taken down, and his Effegies put in a presse amongst the other Tombes, as the Duke of <hi>Lenexs</hi> and others are. And therefore upon this mischance, the parts of his Effagies and Clothes was the said Friday re<g ref="char:EOLhyphen"/>moved, and locked in the inner roomes amongst the Tombes. From whence, the workmen that made it, have carried it away to r<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue it compleat againe, and prepare it to stand in a presse as aforesaid, And it will very sud<g ref="char:EOLhyphen"/>denly be set up compleat amongst the Monumeats in Westminster Abby in Souldiers habit, and Parliament Robes. The Hearse hath been taking down Friday and Saturday, and so till finished, and the Flags to hang o<g ref="char:EOLhyphen"/>ver the place where the Corps were buried. Thus much let me tell you (and let the people be assured) that the discoverers of these barbarous villaines that have done this unparallel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, inhuamane, malignant basenesse, will have a very great reward. And the whole Kingdom can acknowledge it no lesse, then a gallant piece of service in bringing such bruit Rascals to a most exemplary pu<g ref="char:EOLhyphen"/>nishment. Read the gallant actions of this noble Peere, and then see if every true Englishman bee not bound in conscience to search diligently (to their power) after these villaines, till they receive their just reward.</p>
+            </div>
+            <div type="part">
+               <pb n="1" facs="tcp:113912:7"/>
+               <head>A briefe and compendious Narrative of the renowned, ROBERT, Earle of <hi>Essex,</hi> his pedegree: His valiant acts performed when he was Generall of the Parliaments Army, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Shall not trouble you with the Narrative of the many pious actions of this noble Lord in his minority: he was much beloved of the Commons, he had a publique spirit, his expe<g ref="char:EOLhyphen"/>rience was great: hee travelled beyond the seas, and acted well at home. When times began to be reformed, he was made a Privy Counsellor; and the King raising Forces a<g ref="char:EOLhyphen"/>gainst the Parliament, this good Earle was looked on with great affection, and England had great hopes to be eased by him, for none was more in the effections of the people.</p>
+               <p>
+                  <hi>Iuly</hi> 12. 1642. The Parliament being acquainted that the King had besieged <hi>Hull,</hi> with many Horse and Foot, that his Forces were trenching themselves, and had 24. peeces of Canon to plant against the Towne, both Houses voted the 22. of <hi>Iuly</hi> 1642. <hi>His Excel<g ref="char:EOLhyphen"/>lency the Earle of</hi> Essex <hi>to be their Captaine</hi> Generall, <hi>and to live and dye with him:</hi> And the Earle of <hi>Bedford</hi> was voted Lieute<g ref="char:EOLhyphen"/>nant Generall of the Horse. Before which time, the Earle of <hi>War<g ref="char:EOLhyphen"/>wick</hi> was made Admirall of the Seas, and then of the Navy: His Excellency having received his Commission from the Parliament, the City of <hi>London</hi> assisted him in the raising of nigh 10000. men, for his owne Army, they were drawne into <hi>Regiments,</hi> and daily exercised in the discipline of Warres by Orders from his <hi>Excellen<g ref="char:EOLhyphen"/>cy;</hi> but in the meane time, those that adhered to the <hi>King,</hi> labou<g ref="char:EOLhyphen"/>red to set up the <hi>Commission of Array</hi> in all parts of the Kingdom; but those that adhered to the Parliament, joyned with his Excel<g ref="char:EOLhyphen"/>lency, and laboured to set up the <hi>Militin.</hi>
+               </p>
+               <pb n="2" facs="tcp:113912:8"/>
+               <p>The Parliament having placed Deputy-Lieutenants for the se<g ref="char:EOLhyphen"/>verall Counties of the Kingdome, gave <hi>Commissions</hi> to the Earle of <hi>Pembrooke,</hi> E. of <hi>Stamford,</hi> the Lord <hi>Say,</hi> Lord <hi>Brookes,</hi> Lord <hi>Roberts,</hi> Lord <hi>Winoughby</hi> of <hi>Parham,</hi> and others. The <hi>King</hi> pro<g ref="char:EOLhyphen"/>claimed both his <hi>Excellency</hi> and them <hi>Traytors,</hi> but the Parlia<g ref="char:EOLhyphen"/>mene published their saithfulnesse. And the 15. of <hi>August</hi> his <hi>Excellencies</hi> Army was drawn out of the City of <hi>London,</hi>
+               </p>
+               <p>
+                  <hi>August</hi> the 20. His Majesty came against <hi>Warwicke,</hi> and playd against the City with Batteries, and Prince <hi>Rupert</hi> landed at <hi>New<g ref="char:EOLhyphen"/>castle</hi> with Armes from beyond Sea, and the <hi>Commission of Array</hi> was laboured for in <hi>Kent,</hi> but prevented: a party of Horse &amp; Foot being sent by his <hi>Excellency,</hi> took <hi>Cobham</hi> house, the <hi>Block-houses</hi> at <hi>Gravesend,</hi> the Bridge at <hi>Rochester,</hi> and <hi>Dover</hi> Castle, and se<g ref="char:EOLhyphen"/>cured other parts of the County.</p>
+               <p>
+                  <hi>August</hi> the 22. His <hi>Majesty</hi> set up his Standerd at <hi>Nothingham,</hi> Sir <hi>Iohn Lucas</hi> and divers others were taken prisoners. But the <hi>Kings</hi> Foote plundred divers <hi>Waggons</hi> at <hi>Litchfield</hi> that were loaden with cloathes for the reliefe of the Protestants in <hi>Ireland.</hi>
+               </p>
+               <p>
+                  <hi>Aug.</hi> 23. The Lord <hi>Brooks</hi> and Col. <hi>Hampden</hi> fell on the <hi>Kings</hi> Forces raised from <hi>Coventry,</hi> routed 7. Troops of Horse, and 300. the rest Cap. <hi>Legge</hi> and Cap. <hi>Clarke</hi> prisoners, the Earle of <hi>Carlisle</hi> taken prisoner, and committed to the <hi>Black-rod.</hi>
+               </p>
+               <p>The Earle of <hi>Bedford</hi> with a party from his Excellency forced the Marquesse of <hi>Hartford,</hi> the Lord <hi>Paulet,</hi> Sir <hi>Ralph Hopton,</hi> Sir <hi>Iohn Stowell,</hi> and others, 500. in number, to retire into <hi>Sherburne</hi> Castle.</p>
+               <p>The E. of <hi>Stamford</hi> relieved <hi>Leicestershire,</hi> and rescued much goods that Col. <hi>Hastings</hi> had plundered, P. <hi>Rupert</hi> came to joyne with <hi>Hastings.</hi>
+               </p>
+               <p>The Lord Admirall came with a Squadron before <hi>Plymouth</hi> Roads, and took a Merchants Ship and a man of War from <hi>Spain,</hi> both comming to the King.</p>
+               <p>
+                  <hi>Septemb.</hi> 1. Divers prisoners were taken in <hi>Lincolneshire</hi> by Col. Sir <hi>Anthony Irby (viz.)</hi> Sir <hi>William Ballardine,</hi> Major <hi>Lilboway,</hi> Major <hi>Dollman, Killiguay,</hi> and divers others. Col. <hi>Lunsfords</hi> Sum<g ref="char:EOLhyphen"/>pter Horse was taken in <hi>Oxfordshire,</hi> himselfe hardly escaping.</p>
+               <p>Sir <hi>W. Waller</hi> and Col, <hi>Norton</hi> forced <hi>Goring</hi> into <hi>Portsmouth,</hi>
+                  <pb n="3" facs="tcp:113912:8"/>and <hi>Southsay</hi> Castle was surrendred to them: also in like manner <hi>Portsey</hi> and <hi>Portsmouth</hi> were surrendred.</p>
+               <p>
+                  <hi>Septemb.</hi> 9. his Excellency took his leave of the Parliament, and passed through the City guarded in triumph, and many vollyes shot at parting, and prayers for him and his Forces. 46. Cavaliers were taken in <hi>Oxfordshire,</hi> and sent to <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Sep.</hi> 13. the Lord <hi>Montagxe</hi> was taken Prisoner and committed to the Tower; prince <hi>Rupert</hi> being joyned with the King, and marched to wards <hi>Chester</hi> to joyne with Sir <hi>Iohn Byron.</hi>
+               </p>
+               <p>
+                  <hi>Sep.</hi> 22. the parliament sent a petition to be sent to the <hi>King,</hi> by his <hi>Excellency,</hi> from them, with instructions for the ordering of ther Army, under his Excellency, which was sent by Sir <hi>Philip Stapleton.</hi> And his <hi>Excellency</hi> marched with his Army to <hi>Shrews<g ref="char:EOLhyphen"/>bury,</hi> with 300. Horse, and seize on the <hi>Magazine.</hi> After which the King joyned his whole Army with the Lord <hi>Strange,</hi> and pos<g ref="char:EOLhyphen"/>sest himself of <hi>Chester,</hi> his number 10000. Foot and 3000. Horse. But the meane while the E. of <hi>Bedford</hi> took <hi>Sherborne</hi> Castle.</p>
+               <p>Col. <hi>Fines,</hi> with Col. <hi>Sands,</hi> Col. <hi>Browne,</hi> with others, consist<g ref="char:EOLhyphen"/>ing of 10. Troops of Horse, and 1000. Foot, engaged with prince <hi>Rupert,</hi> P. <hi>Maurice,</hi> and Sir <hi>Iohn Byron,</hi> killed 30. and lost 28. a<g ref="char:EOLhyphen"/>mongst the rest Major <hi>Douglas.</hi> But the meane while 200. Ca<g ref="char:EOLhyphen"/>valliers were beaten off at <hi>Northampton.</hi> And the Lord <hi>Fairfax,</hi> Generall of the North, did many good services, and took many prisoners in <hi>York-shire,</hi> many Horse and Foot out of severall Counties came in to joyne with the E. of <hi>Essex.</hi>
+               </p>
+               <p>His <hi>Excellency</hi> marched on to <hi>Worcester,</hi> and took the City. Ma<g ref="char:EOLhyphen"/>lignants had plotted to blow up his Quarters with 11. barrels of Ganpowder, but the plot was discovered and prevented. He sent the Parliaments Petition to the <hi>King,</hi> and was called <hi>Traytor</hi> for his labour, yet went on with gallant courage and resolution.</p>
+               <p>
+                  <hi>Worcester</hi> also, and <hi>Hereford</hi> mere taken by him. And the <hi>King</hi> retreated to <hi>Shrewsbury.</hi> and the E. of <hi>Derby</hi> besieged <hi>Manchester.</hi> The Lo: <hi>Fairfax</hi> took <hi>Kewood</hi> Castle, and <hi>Pontfract</hi> Castle.</p>
+               <p>Afterwards the <hi>King</hi> went against <hi>Hereford,</hi> but was kept out till his <hi>Excellency</hi> came to relieve them: and followed the <hi>King</hi> to <hi>Worcester,</hi> where he received <hi>Propositions</hi> from the <hi>King,</hi> which his <hi>Excellency</hi> sent to the <hi>Parliament,</hi> and fortifyed <hi>Worcester,</hi> and se<g ref="char:EOLhyphen"/>cured <hi>Bridgenorth:</hi> and hearing that the King had appointed P.
+<pb n="4" facs="tcp:113912:9"/>
+                  <hi>Rupert,</hi> the E. of <hi>Derby,</hi> E. of <hi>Cumberland,</hi> E. of <hi>Worcester,</hi> Mar<g ref="char:EOLhyphen"/>quesse of <hi>Hertford,</hi> E. of <hi>Cardigan,</hi> Lo: <hi>Herbert,</hi> and the Lo: <hi>Co<g ref="char:EOLhyphen"/>ventry</hi> with their forces to joyne with him, his <hi>Excellency</hi> prepa<g ref="char:EOLhyphen"/>red to give them <hi>Battaile:</hi> And in the meane time a party from his <hi>Excellency</hi> defeated the Lord <hi>Grandison,</hi> neere <hi>Gloucester,</hi> kil<g ref="char:EOLhyphen"/>led 50. took 30. prisoners, and took the towne, and the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> fell on P. <hi>Ruperts</hi> Quarters, and killed 30. on the place, but with some losse.</p>
+               <p>The Kings Forces joyning, marched towards <hi>Coventry;</hi> his <hi>Ex<g ref="char:EOLhyphen"/>cellency</hi> followed him so close, that they stayd not there. The <hi>Parl.</hi> secured <hi>Windsor Castle,</hi> and the <hi>Tower</hi> of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Octob.</hi> 3. a great battail was fought between <hi>Keinton</hi> and <hi>Edge<g ref="char:EOLhyphen"/>hill,</hi> between both Armies; the King in person being in the head of the one, with P. <hi>Charls,</hi> the Duke of <hi>Yorke,</hi> with divers <hi>Dukes, Marquesses, Earles, Viscounts, Lords,</hi> and <hi>Knights,</hi> and the Earle of <hi>Essex</hi> in the head of the other, with divers Lords and Commons, Members of both Houses of <hi>Parl.</hi> where his <hi>Excellency</hi> after a bloody fight, obtained a gallant victory, and took 16. Colours from the King, killed <hi>Robert</hi> Earle of <hi>Lindsey,</hi> Lord high Chancel<g ref="char:EOLhyphen"/>lor of <hi>England, George</hi> Lord D' <hi>Aubeny,</hi> brother to the Duke of <hi>Richmond</hi> and <hi>Lenox,</hi> Sir <hi>Edm. Varney</hi> Knight Marshall to the King, and divers other eminent men, and took many prisoners.</p>
+               <p>Afterwards the King having taken <hi>Banbury,</hi> marcht to <hi>Reading,</hi> his Forces were kept out of <hi>Windsor.</hi> The Parliament sent a Petiti<g ref="char:EOLhyphen"/>on to the King by Commissioners, but the Kings Forces in a misty night, <hi>Novemb.</hi> 12. marched to <hi>Brainford,</hi> and killed many of Col. <hi>Hollis</hi> his men in their Quarters, yet his Excellency relieved them by the Lo: <hi>Brooks,</hi> and Col. <hi>Hampdens</hi> Regiments: many were slaine on both sides. And his Excellency came up so close to them, that they fled to <hi>Henly,</hi> and brake down the bridge to hinder the pursuit: and the City of <hi>London</hi> shewed so much willingnesse to assist his <hi>Excellency</hi> in what they might, as could be expected, as his gallantry had well deserved. 13. peaces of Ordnance were brought downe by water, and discharged against them at <hi>Sion</hi> house, which did execution, so that the enemy to be revenged plundered the passage boats which they found on the water side.</p>
+               <p>
+                  <hi>Thursday</hi> the 17. in the night the City of <hi>London</hi> tooke a great <hi>Alarum,</hi> to <hi>Oxford,</hi> 3. City Regiments with 12 peeces of <hi>Ord<g ref="char:EOLhyphen"/>nance</hi>
+                  <pb n="5" facs="tcp:113912:9"/>were drawne out, to releeve His <hi>Excellency.</hi> A great party of His <hi>Majesties</hi> Forces were about <hi>Charsey, Brainford, Houn<g ref="char:EOLhyphen"/>slos, Hamersmith,</hi> and parts adjacent, some Capitulations there was betweene the King and Parliament, but it came to no effect; And therefore His <hi>Excellency</hi> forced them from their quarters, and drave them from <hi>Brainford, Kingston, Hunslow, &amp;c.</hi> The King retreating to <hi>Oxford,</hi> his forces about <hi>Abbington, Wallingford,</hi> and <hi>Redding. And the</hi> 25. of <hi>November,</hi> His <hi>Excellency</hi> returned to the <hi>Parliament,</hi> to acquaint them with the state of the <hi>Army,</hi> and to provide subsistance for his Forces, for winter quarters.</p>
+               <p>In <hi>December</hi> Sir <hi>William Waller</hi> took <hi>Winchester,</hi> the Lord <hi>Gran<g ref="char:EOLhyphen"/>deson,</hi> and 60. great Officers, 1000. Horse and Foot, and 600. Armes. The Lord <hi>Fairfax</hi> Routed the Earle of <hi>Newcastle</hi> neere <hi>Tadcaster.</hi> Sir <hi>William Waller</hi> took <hi>Arundel Castle.</hi> And the city of <hi>Chichester.</hi>
+               </p>
+               <p>In <hi>Ianuary</hi> the Lord <hi>Fairfax</hi> Routed the Earle of <hi>Newcastle</hi> again neer <hi>Bradford.</hi> Again, the Lord <hi>Fairfax</hi> Routed the Earl of <hi>Nowcastle</hi> neere <hi>Leeds. Leeds</hi> taken by the Lord <hi>Fairfax.</hi> His <hi>Excellency</hi> Routed the Kings Forces neer <hi>Henly,</hi> and took 200. Prisoners. Sir <hi>William Brereton</hi> Routed Sir <hi>T. Aston</hi> by <hi>Nampt<g ref="char:EOLhyphen"/>wich,</hi> took 100. Prisoners Horse and Foot.</p>
+               <p>In <hi>February</hi> Sir <hi>Iohn Seaton</hi> in <hi>Lancashire</hi> took <hi>Preston, Lanca<g ref="char:EOLhyphen"/>ster</hi> Town, and Castle. The Western Forces Routed the Cornish neer <hi>Madbury,</hi> took five piece of Ordnance, 10 Officers, 100. Pri<g ref="char:EOLhyphen"/>soners, and 200. Armes. Sir <hi>Th. Aston</hi> again routed by Sir <hi>W. Brereton</hi> at <hi>Middlewich.</hi>
+               </p>
+               <p>
+                  <hi>March</hi> Sir <hi>W. Brereton</hi> took <hi>Lichfield</hi> close. Sir <hi>W. Brereton</hi> Routed the Kings Army neer <hi>Seafford,</hi> the Earl of <hi>Northamton</hi> and many more slain. <hi>Lastol</hi> also taken. Sir <hi>W. Waller</hi> tooke <hi>Malmsbury</hi> by storm.</p>
+               <p>In <hi>April,</hi> 1643. Col: <hi>Massey</hi> Routed the Welch in the Forrest of <hi>Dean.</hi> Col: <hi>Massey</hi> took <hi>Tewksbury. Wiggon</hi> taken by Sir <hi>Iohn Seaton.</hi> Sir <hi>W. Waller</hi> took three Troops of Prince <hi>Mourice's</hi> Horse. Sir <hi>W. Waller</hi> took <hi>Monmouth</hi> in Wales. Sir <hi>W. Waller</hi> took <hi>Higman,</hi> and in it 150 Officers and Gentlemen, 1000. Priso<g ref="char:EOLhyphen"/>ners. Sir <hi>W. Waller</hi> took <hi>Resbridge</hi> and <hi>Chapstow.</hi> And <hi>Here<g ref="char:EOLhyphen"/>ford</hi> taken by storme by Sir <hi>W. Waller,</hi> and in it 40. Knights and Officers in Commission, and 600. Prisoners. <hi>Sherburne</hi> Castle
+<pb n="6" facs="tcp:113912:10"/>and <hi>Hemster</hi> taken by Sir <hi>W. Waller.</hi> The <hi>Lancashire</hi> men took <hi>Whaley.</hi> The <hi>Lincolneshire</hi> men took <hi>Crowland.</hi>
+               </p>
+               <p>His <hi>Excellency</hi> having received recruits, mustered 3 compleat Regiments in the <hi>Artillery</hi> Ground at <hi>London:</hi> And His <hi>Excel<g ref="char:EOLhyphen"/>lency</hi> marched to his Forces to <hi>Henly,</hi> making preparations against the enemy. And marched with his Army against <hi>Redding,</hi> in number 12000. <hi>Feet</hi> and 2000. <hi>Horse,</hi> where he had some parly with Colonell <hi>Aston</hi> the Governour; and had releefe sent him from <hi>London.</hi> A party came to releeve <hi>Redding,</hi> but were beaten back, and 16. of their men were slaine, and another party gathe<g ref="char:EOLhyphen"/>ring neere <hi>Dorchester,</hi> where divers were slaine, and 100. taken Prisoners, and a third time, Prince <hi>Charles</hi> and Prince <hi>Rupert,</hi> with 45. Troops of Horse and 9. Regiments of Foot, were beaten back by the L. <hi>Roberts,</hi> 80. killed on the place, 4. taken in the pur<g ref="char:EOLhyphen"/>suit, many prisoners taken, and 200 Arms. And <hi>April</hi> 20. the Ene<g ref="char:EOLhyphen"/>my being 3500. marched out and delivered <hi>Redding,</hi> to His <hi>Excel<g ref="char:EOLhyphen"/>lency.</hi> And the workes about the City of <hi>London,</hi> were made by the assistance of the Inhabitants, men, women and children. The City sent provisions to his Excellency, which was distributed thus. <hi>Victuals distributed to his Excellencies Army.</hi>
+               </p>
+               <list>
+                  <item>His <hi>Excellencies</hi> Army 2. load.</item>
+                  <item>The Lord <hi>Greys</hi> Foot 6. load.</item>
+                  <item>Major Gen. <hi>Skippons</hi> 1. load.</item>
+                  <item>Colonel <hi>Hampdens</hi> 1. load.</item>
+                  <item>The Lord <hi>Roberts</hi> 1. load.</item>
+                  <item>Sir <hi>William Constable</hi> 1. load.</item>
+                  <item>Sir <hi>John Meldrum</hi> 1. load.</item>
+                  <item>Colonel <hi>Bartlet</hi> 1. load.</item>
+                  <item>Colonel <hi>Holborne</hi> 1. <hi>load.</hi>
+                  </item>
+                  <item>Colonel <hi>Holmsted</hi> 1. load.</item>
+                  <item>Colonel <hi>Cholmley</hi> 1. load.</item>
+                  <item>
+                     <hi>Rochford, Peterboroug,</hi> and <hi>Vallard,</hi> 2 load.</item>
+                  <item>To the Traine 1 load.</item>
+                  <item>To the Pioners 1. load.</item>
+               </list>
+               <p>And his Excellency being resolved to march towards the King, came to <hi>London, May</hi> 11. to acquaint the Parliament therewith. And the Queens was going towards <hi>Oxford</hi> with 52. waggons of Ammunition, and 44. barrels of Gunpowder. A treaty was be<g ref="char:EOLhyphen"/>tween the King and the Parliament, but took no effect. So his Ex<g ref="char:EOLhyphen"/>cellency returned to his Army to <hi>Reading, Iune</hi> 8. preparing to march to wards <hi>Oxford,</hi> and accordingly his Excellency marched through <hi>Stoken</hi> Church, and so on towards <hi>Whateley:</hi> and the E. of <hi>Donbigh</hi> was made Generall of the Counties of <hi>Stafford, Wer<g ref="char:EOLhyphen"/>cester, Salop,</hi> and <hi>Warwick.</hi>
+               </p>
+               <pb n="7" facs="tcp:113912:10"/>
+               <p>In <hi>July</hi> his <hi>Excellency</hi> forced the Kings party from <hi>Wheatly</hi> bridge, where he took 80. Horse. His Majesty put out a Proclama<g ref="char:EOLhyphen"/>tion excepting his Excellency, and divers members out of pardon: Which caused the Parliament to put out a declaration to vindicate them. At which time the sicknesse was very hot about <hi>Oxford.</hi> And the 9. of <hi>July</hi> his <hi>Excellency</hi> sent Sir <hi>Philip,</hi> and Colonell <hi>Goodwin</hi> towards <hi>Buckingham;</hi> who raised the Kings men from their quar<g ref="char:EOLhyphen"/>ters, and killed and took divers.</p>
+               <p>But <hi>Thursday, July</hi> 16. Sir <hi>William Waller</hi> being over-powred, receiving losse at the <hi>Devizes,</hi> the Queen joyned her Forces with the King, neere <hi>Edge-hill.</hi> All this while his Excellency giving a check to the Kings Army.</p>
+               <p>The Kings Army besieged <hi>Glocester;</hi> gallantly defended by Co<g ref="char:EOLhyphen"/>lonell <hi>Massie:</hi> His Excellency marched from <hi>Ailsbury Aug.</hi> 23. to relieve him. On which day, Colonell <hi>Massie</hi> (besides divers o<g ref="char:EOLhyphen"/>ther repulses) made a sally upon them, and took 3. peeces of Ord<g ref="char:EOLhyphen"/>nance, and killed many. In <hi>September</hi> there joyned with the Lord Generall, 2. Regiments of <hi>London</hi> Train-bands, and 3. Regiments of Auxiliaries; who raised the siege, and brought in Ammunition and provisions. And three dayes after his Excellency marched to <hi>Cerencester,</hi> where he beat two Regiments of the Kings, tooke the Kings Magazine of bread, and nigh 400. prisoners.</p>
+               <p>After which his Majesty with his whole Army, being again drawn into the field, his Excellency marched up to them: the Queen came up to the Kings Army, and a great Party with her, to streng<g ref="char:EOLhyphen"/>then his Majesties Army against the Earle of <hi>Essex:</hi> But his Ex<g ref="char:EOLhyphen"/>cellency fought with them neere <hi>Newbery,</hi> where hee killed five Lords, with divers others of quality. The King with the losse of 500. men retreated to <hi>Edge-hill,</hi> whither the Queen came to him from the North, and joyned her Forces.</p>
+               <p>In <hi>September</hi> th Earle of <hi>Manchester</hi> took <hi>Horn Castle,</hi> and the Citie of <hi>Lincoln. Eccleshall</hi> taken by Sir <hi>William Brereton,</hi> who cau<g ref="char:EOLhyphen"/>sed Lord <hi>Capels</hi> forces at <hi>Lappinton</hi> to retreat.</p>
+               <p>In <hi>October</hi> Lord <hi>Capel</hi> Forces beaten at <hi>Leigh-bridge,</hi> and forced into <hi>Shewsbury. Holt bridge</hi> taken. And in <hi>Nouember</hi> Colonell <hi>Birch</hi> routed the enemies forces. <hi>Wrexam</hi> in <hi>Wales</hi> taken by Sir <hi>William Brereton.</hi> The enemy beaten. The <hi>Dorsetshire</hi> men took <hi>Wareham.</hi>
+               </p>
+               <pb n="8" facs="tcp:113912:11"/>
+               <p>In <hi>December</hi> Sir <hi>Tho. Middleton</hi> took <hi>Flint. Moston</hi> taken. Colonel <hi>Massie</hi> took <hi>Woorton.</hi> The <hi>Plimouth</hi> forces routed by the Lord <hi>Dig<g ref="char:EOLhyphen"/>by,</hi> Sir <hi>William Waller</hi> routed the L. <hi>Craford</hi> neere <hi>Aulton. Aulton</hi> taken by Sir <hi>William Waller.</hi> Col. <hi>Skippon</hi> took <hi>Grafton-house. Holt-House, Bewly-House,</hi> and <hi>Haward n</hi> castle taken by Sir <hi>W. Brereton.</hi>
+               </p>
+               <p>In Ianuaay Sir <hi>W. Waller</hi> took <hi>Arundel</hi> Castle, and 200 priso<g ref="char:EOLhyphen"/>soners. Colonell <hi>Mitton</hi> routed Sir <hi>I. Biron</hi> neere <hi>Elsmore.</hi> Sir <hi>John Gell</hi> took <hi>Burton</hi> upon <hi>Trent. Hilson</hi> taken, and <hi>Laieock</hi> House. The Earle of <hi>Manchester</hi> took <hi>Croyland.</hi> Burleigh House, Cocket Island taken by the Scots. <hi>Gussanna</hi> taken by Sir <hi>W. Brereton.</hi>
+               </p>
+               <p>In February Sir <hi>W. Brereton</hi> took a fortified house in <hi>Wales</hi> by storm. Sir <hi>W. Brereton</hi> routed L. <hi>Capels</hi> forces, and brought 3000 of the enemy to nothing. The Isle of <hi>Axelm</hi> taken by Sir <hi>John Mel<g ref="char:EOLhyphen"/>drum. Burlington</hi> also and <hi>Whithy</hi> taken, and <hi>Milus</hi> house by the L. <hi>Fai fax. Alnwick</hi> and <hi>Morpith</hi> by the Scots, <hi>Milford</hi> haven by Captain <hi>Swanley,</hi> Biddle-house by Sir <hi>Tho. Fairfax,</hi> where was ta<g ref="char:EOLhyphen"/>ken the L. <hi>Brereton,</hi> 20. Officers of note and 300 prisoners. <hi>Hilsley</hi> House and <hi>Newbery</hi> taken by Sir <hi>W. Balfore.</hi>
+               </p>
+               <p>In March was taken, <hi>Bredport.</hi> The <hi>Pembrokeshire</hi> men with Cap. <hi>Swanleys</hi> Sea-men took <hi>Haverford West. Tinby</hi> Castle taken, with 7. peeces of Ordnances, and 400. prisoners and Arms. <hi>Carew</hi> castle taken, the Earle of <hi>Carbery</hi> routed, <hi>Souderland</hi> taken by the Scots. Sir <hi>W. Waller</hi> routed <hi>Hopton</hi> at <hi>Cheriton,</hi> neere <hi>Alsford;</hi> one Lord, and 100. more slain, 100. Officers, and 500. Souldiers taken priso<g ref="char:EOLhyphen"/>ners. <hi>Whitchurch</hi> taken by Dorsetshire men.</p>
+               <p>In April 1644. the L. <hi>Fairfax</hi> took Cawood Castle. <hi>Axolm</hi> and <hi>Crowland</hi> taken. <hi>Whitchurch</hi> in Dorsetshire, and <hi>Waltham</hi> taken by Col. <hi>Brown. Adlington</hi> taken in Cheshire by Col. <hi>Duckinfield</hi> and Major <hi>Morgans</hi> men. Also <hi>Dedington</hi> house and <hi>Crow.</hi> The Earle of <hi>Newcastle</hi> routed at <hi>Selby. Duresme</hi> and <hi>Lumley</hi> taken by the Scots.</p>
+               <p>In May the Earle of <hi>Manchester</hi> took <hi>Lincoln</hi> and the Castle, 7. peeces of Ordnances. 200. Kinights, Colonels, and other Officers of note, 300. Armes, and 800. prisoners.</p>
+               <p>In May, 1644. his Excellency desired the Parliament to have a Committee to reside with him in the Army, &amp; his Excellency made preparations to the field, and presently besieged <hi>Oxford,</hi> where the King then was: and at the beginning of June got away towards
+<pb n="9" facs="tcp:113912:11"/>the West, the King and the Prince being gore to <hi>Exeter</hi> with the Lord <hi>Paulet,</hi> and others: his Excellency having taken divers priso<g ref="char:EOLhyphen"/>ners, drew his Army after them. The Queen fled over into <hi>France;</hi> his Excellency took in the West divers persons in severall places, a<g ref="char:EOLhyphen"/>mongst which many of quality, and divers Garrisons. In June his Excell. secured <hi>Weymouth, Teunton Deane, Wareham, Bavonestable, Mount Stanford</hi> neere <hi>Plimouth, Plimpton, Saltash</hi> and <hi>Lanceston.</hi> And in July his Excellency gave a defeat to <hi>Greenvill</hi> neer <hi>Lestithiel</hi> in <hi>Cornwall,</hi> and took 100. prisoners, and killed 300. upon the place, and then took <hi>Tadeaster</hi> and <hi>Foy,</hi> and did beat them from <hi>Newbridge,</hi> still taking more prisoners daily.</p>
+               <p>The Pembroke men took <hi>Carnarvan</hi> and the Castle. Col. <hi>Massie</hi> routed Sir <hi>John W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</hi> at <hi>Newnham,</hi> took 9. peeces of Ordnance, 200. Officers, and 500. prisoners. Brereton Castle taken, &amp; <hi>Malms<g ref="char:EOLhyphen"/>bury</hi> taken with 7. peeces of Ordnance, and 300. prisoners. The Scots took <hi>Lu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly</hi> Castle. <hi>Bewdly</hi> in Worcestershire taken. And <hi>Yar mouth,</hi> by Sir <hi>Iohn Meldrum. Abingdon</hi> by the L. <hi>Robers, Rus<g ref="char:EOLhyphen"/>sell Hall</hi> by the Stafford Forces.</p>
+               <p>In June Col. <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ssie</hi> took Chippingham, &amp; Tewksbury. Sir <hi>W. Wal<g ref="char:EOLhyphen"/>ler</hi> took Shudly, took two pieces of Ordnances, 70. Officers and Gentlemen, 40. Horse, 250. prisoners. Compton house taken by the Warwickshire men, 30. Officers and Gentlemen, 60. Horse, and 140 prisoners. Weymouth by Sir <hi>W. Balfore,</hi> 27. peeces of Ordnance, &amp; 400. Arms. Taunton Dean by him likewile. <hi>Oswestree</hi> by the Earle of <hi>Denbigh.</hi> Cholmley house by him likewise. His Excellency took Barnstable and Taunton. The great Battell at Marstone Moore was sought, where all the 3. Generals Armies were engaged on both side: we kiled 4000 and took 1500. prisoners, and the Earle of Newcaffle, and Pr. <hi>Rupert</hi> both utterly defeated. Greenland house taken by Col. <hi>Brown.</hi> Wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Ferry by Sir <hi>Iohn Gell.</hi> York surren<g ref="char:EOLhyphen"/>dred to the 3. Generrls, Tickell to the Earle of <hi>Manchester. Mount Stamford</hi> neere <hi>Plimouth,</hi> taken by his Excellency, and <hi>Plimpton</hi> with 8. peaces of Ordnance, and <hi>Saltash</hi> also, and <hi>Lanceston, Greenhil</hi> house taken, and <hi>Morpith</hi> Castle.</p>
+               <p>In July the Lord <hi>Roberts</hi> wonted <hi>Greenvill</hi> neere <hi>Listithiell</hi> in Cornwall, too 100 Officers and Gentlemen, and killed and tooke 300. more. <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wbridge</hi> taken by his Excellency <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>W. Brereton</hi> de<g ref="char:EOLhyphen"/>feated <hi>Newcastles Army,</hi> going to joyn with the Lord <hi>Capels</hi> and
+<pb n="10" facs="tcp:113912:12"/>
+                  <hi>Biron</hi> about Chester and Wales. Sir. <hi>Thomas Middleton</hi> surprized the enemy at Welsh-poole, and took 100. horse and prisoners. Sir <hi>M. Langdale</hi> defeated at Melpesse by S. <hi>W. Breretons</hi> Forces, and divers prisoners of note taken. Sir <hi>W. Breretons</hi> Forces beat the e<g ref="char:EOLhyphen"/>nemy at Tarvin and after beat Col. <hi>Marrows</hi> Forces in Cheshire: and a third time beat the enemy out of Worrall Island.</p>
+               <p>In <hi>Aug.</hi> his Excellency fell upon the Cornish Brigade neer <hi>Salt<g ref="char:EOLhyphen"/>ash,</hi> and brake through their Army, slew many of them upon the place, took 300. prisoners and four Drakes. Shelford taken by the Earle of Manchester, and likewise Welbeck House, VVareham by his Excellency, Gateshead at Newcastle by the Scots, VVinkfield Mannor by Sir <hi>Iohn Gell,</hi> and Redcastle by Sir <hi>T. Middleton.</hi>
+               </p>
+               <p>The Kings whole Army, <hi>Maurices</hi> and <hi>Greenvils,</hi> were erawn into th field in Battalia, in number almost 20000. men neere <hi>Lesti<g ref="char:EOLhyphen"/>thiell,</hi> where his Excellency daily skirmished with them, killed ma<g ref="char:EOLhyphen"/>ny, took prifoner Col. <hi>Champernoon,</hi> who was sore wounded, and di<g ref="char:EOLhyphen"/>vers more: many lying 6. and 8. in a heap; and upon desire his Ex<g ref="char:EOLhyphen"/>cellency graneed them leave (at a parly) to bury their dead.</p>
+               <p>On Saturday the 24 of <hi>Aug.</hi> 1644. his Bxcellency appointed Major Generall <hi>Whit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t,</hi> and Col. <hi>Ware</hi> to guard the Reare of <hi>Le<g ref="char:EOLhyphen"/>stithiel,</hi> and make a dam to stop provisions from the Kings Army that way; and his Excellency with a shall party of Col. <hi>Gowres</hi> Regi<g ref="char:EOLhyphen"/>ment, beat off 3000. Hhrse and foot from Blazy bridge, appointed by the enemy to stop provisions from <hi>Millibilly</hi> Bay, where his Excellency killed many, and tooke prisoners a Colonell, 2. Cap<g ref="char:EOLhyphen"/>tains, and divers others.</p>
+               <p>In the beginning of September his Excellency notwithstanding he was so over powred by the enemy, yet preserved both himselfe and his men, forced the en my from the Sea-coasts and got safe to the Lord Admirall; his Horse not above 3000. brake through the whole body of the Kings Army; and his Foot not above 6000. though it compassed with 20000 of the Kings, from <hi>Gramporond, E<g ref="char:EOLhyphen"/>nedor,</hi> and <hi>Foy,</hi> even to <hi>Blazy</hi> bridge, who were resolved to give no quarter to our men; yet they fought it out so gallantly, killing two of theirs for every man that we lost, untili at last they got Ar<g ref="char:EOLhyphen"/>ticles from the Kings party to have a safe convoy to <hi>Lestithiel, Pool,</hi> and <hi>Wareham,</hi> their fick to remaine at <hi>Foy;</hi> and none of them be pressed to desert their service to his Excellency.</p>
+               <pb n="11" facs="tcp:113912:12"/>
+               <p>And his Excellency being recruited in September from the Par<g ref="char:EOLhyphen"/>liament and in December had his randezvous at <hi>Titchfield,</hi> and fal<g ref="char:EOLhyphen"/>ling on the Kings Reare, took almost an hundred prisoners neere <hi>Kingscleare;</hi> and with the assistance of the Earle of Manchester, and Sir W. <hi>Waller,</hi> routed the Kings Army neere <hi>Newbery,</hi> and tooke 9. peeces of Ordnance, 300. prisoners, and 500. Armes.</p>
+               <p>In September Col. Mosley rented Prince Rupert, tooke 12. Peices of Ordinance, 100. Horse, and 200. Foote.</p>
+               <p>In October the Scots tooke Newcastle by storme, and in it 20. Lords and Knights, 50. Officers of note, 2000, Prisoners 48. peices of Ordinance, and 3000. Armes.</p>
+               <p>The Earl of Manthester and Sir William Waller routed the Kings Army neere Newbery. and tooke 9. pieces of Ordinance, 300. Prisoners, and 500. Armes. Tinmouth Castle surrendred to the Scots Liverpoole taken, &amp; Col. Egerton defeated at Farme in Cheshire by Sir William Brereton, Holt Castle taken by Col. Crooke.</p>
+               <p>In November, Helmsley taken by the Lord Fairfax, the enemy driven from Newbery, Farringdon and Malborough by the Earle of Manchester, and Sir William Waller, the enemy beaten by Captaine Stone n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere Ecleshall.</p>
+               <p>Decemb. the Pembroke men tooke Laughorne, the Scots Carlisle, the Lincolnshire men Croyland, Col. Massey Monmouth, and the Lord Fairfax tooke Knaisbrough.</p>
+               <p>In Ian. Russel house taken by E. Denby, Bellasith Garison, neere Abingdon by Col. Browne, the enemy beaten at Christle<g ref="char:EOLhyphen"/>ton neere Chester by fir William Breretons forces, the enemy routed at Eaton in Cheshire, fir william Breretons forces beat Prince Ruperts and Maurices, forces going into the North to joyne with the Northern forces.</p>
+               <p>In Feb. Col. Laughorne routed the enemy in Pembrokeshire, tooke 4. peices o Ordinance, 400. Armes, and 300. Prisoners, Sir Iohn Meldrum tooke Scarborough Towne, 30. peices of Or<g ref="char:EOLhyphen"/>dinance, and 100. Ships, Col. Mytton tooke Shrewsbury, and in it 100. Knights and Esquires, and Officers in Commission, 36. peices of Ordinance, 3000. Armes, and 2000. Prisoners.</p>
+               <p>In the latter end of March, 1645. the Lord Fairfax and the Scots tooke the Castle of Searborough, Weymouth retaken by
+<pb n="12" facs="tcp:113912:13"/>Col. Sydnham, Blechindon house taken, and Col. Massey tooke Evisham, 3. Officers and Gentlemeu, 150. Horse, and 400. Prisoners and Armes.</p>
+               <p>
+                  <hi>His Excellencies Funerall.</hi>
+               </p>
+               <p>His Excellency the Earle of <hi>Essex</hi> his Hearse having been pub<g ref="char:EOLhyphen"/>lickly scene at <hi>Essex</hi> House in the Strand, (where he hath layne in his Scathe Britches, and Buff. Coate, in his Parliament Robes, Commanders Staff in his hand, and Coronet on his head; in a Hoarse covered with black Velver, and his Cullers, and divers Scutcheons of Armes about him, being attended by the Mem<g ref="char:EOLhyphen"/>bers of both Houses, <hi>Essex</hi> house being hanged about with mour<g ref="char:EOLhyphen"/>ning) he p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h from thence, with divers Regiments of the Trayne Band of the City of <hi>London</hi> matching with him, and o<g ref="char:EOLhyphen"/>thers standing on each side of the streete, to <hi>Westminster;</hi> and in the Chancel of the Abbyes another herse prepared for him; where he is to lye during the pleasure of the House, and then to be removed into King <hi>Henry</hi> the sevenths Chappel.</p>
+               <div type="section">
+                  <head>The Earle of Essex his Pedigree.</head>
+                  <p>SIR <hi>Walter Devoreux</hi> Knight, had Issue, Sir <hi>Walter Devoreux</hi> Knight, who married <hi>Agnes</hi> Daughter and Heire of <hi>Thomas</hi> de <hi>Chophall,</hi> and had Issue, Sir <hi>Walter Devoreux</hi> Knight, who married <hi>Eazabeth</hi> Daughter of <hi>Thomas Brannock</hi> alias <hi>Bromwich</hi> Knight, by whom he had Issue, Sir <hi>Walter Devoreux</hi> Knight, which married <hi>Elizabeth,</hi> Daughter and Heire of <hi>Iohn Marbury,</hi> and by her had Issue, Sir <hi>Walter Devoreux</hi> Knight of the Garter, and Lord <hi>Ferrers of Charley</hi> in right of his wite, <hi>Anne,</hi> Daughter and Haire of <hi>William</hi> Lord <hi>Ferrers</hi> of <hi>Chartley.</hi> This Sir <hi>Walter</hi> was slaine at <hi>Bosworth</hi> field with King <hi>Richard</hi> the 3. he had Issue, <hi>Iohn Devereux</hi> Knight of the Garter, and Lord <hi>Ferrers</hi> of <hi>Chartley,</hi> who married <hi>Cicely</hi> sister and Here of <hi>Henry Bourchier</hi> Earle of <hi>Essex,</hi> and had Issue, <hi>Wolter Devoreux,</hi> Lord <hi>Ferrers</hi> of <hi>Chartley,</hi> Viscount <hi>Her<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ford,</hi> and Knight of the Garter, married first <hi>Mary</hi> Daughter of <hi>Thomas Gray,</hi> Marquesse of <hi>Dorcet,</hi> he married secondly <hi>Margaret</hi> Daughter of <hi>Robert Garnish</hi> of <hi>Kendon</hi> in the County of Suffolk; b<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whom <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ssue, <hi>Edward Devoreux</hi> of Castle-Bromewich in <hi>Warweckshre</hi> &amp;c. he had Issue by <hi>Mary Gray</hi> his first wife, Sir <hi>William Devoreux</hi> Knight, 2. Son (who
+<pb n="13" facs="tcp:113912:13"/>married <hi>Ione,</hi> Daughter of <hi>Iohn Scudamore,</hi> and had Issue by he two Daughters, <hi>Barbara,</hi> and <hi>Margaret,</hi>) and <hi>Katherine</hi> wite to Sir <hi>Iames Baskervill,</hi> and Sir <hi>Richard Devoreux</hi> Knight, eldest Sonne (or <hi>Walter</hi> and <hi>Mary Gray,</hi>) who married <hi>Dorothy</hi> Daugh<g ref="char:EOLhyphen"/>ter of <hi>George Hastings</hi> Earle of <hi>Huntington,</hi> (he dyed before his Father,) and had Issue, <hi>Mary</hi> who dyed a Virgin, Anno. 1558. being then 20. yeare old, <hi>Anne</hi> wife to <hi>Henry Clifford, Elizabeth</hi> wife to <hi>Iohn Vernon,</hi> of <hi>Hodnet.</hi> Sir <hi>George Devoreux</hi> Knight, se, cond Sonne married — Daughter of—<hi>Meverell:</hi> And <hi>Walter Devoreux</hi> the first Earle of <hi>Essex</hi> of that name, Created by Queene <hi>Elizabeth</hi> Anno. Dom. 1572. dyed in <hi>Ireland</hi> 1576. he married <hi>Lettice</hi> Daughter of Sir <hi>Francis Knowles,</hi> Knight of the Garter, he had Issue by her, <hi>Dorothy</hi> 1. married to <hi>Thomas Par<g ref="char:EOLhyphen"/>rot</hi> and after to <hi>Henry Percy</hi> Earle of <hi>Northamberland</hi> she dyed Anno. Dom. 16.9. <hi>Penelope</hi> wife to <hi>Robert</hi> Lord <hi>Rich,</hi> she dyed 1607. <hi>Walter Devoreux,</hi> second Sonne, slaine at <hi>Roome</hi> in <hi>Normon<g ref="char:EOLhyphen"/>dy</hi> the 10. of December Anno. Dom. 1591. And <hi>Robert</hi> Earle of <hi>Essex,</hi> and <hi>Ewe,</hi> &amp;c. Eldest Sonne, he married <hi>Francis</hi> Daughter and Heire of Sir <hi>Francis Walsingham:</hi> by whom he had Issue, <hi>Dorothy</hi> wife to <hi>Henry Shirley,</hi> Son and Heire of Sir <hi>George Shir<g ref="char:EOLhyphen"/>ley</hi> of <hi>Stanton</hi> in <hi>Leicestershire,</hi> Knight and Baronet: <hi>Francis</hi> wife of <hi>VVilliam</hi> Lord Beauchamp Son of <hi>Edward</hi> Lord Beauchamp Sonne of <hi>Edward.</hi> Lord of <hi>Harford:</hi> And <hi>Robert Devoreux,</hi> Earle of <hi>Essex,</hi> and <hi>Ewe,</hi> Vicount <hi>Hereford,</hi> Lord <hi>Ferrers</hi> of <hi>Chartley, Bourchier,</hi> and <hi>Lovaine,</hi> Lord Geneaall of the forces raysed by, and imployed in the service of the Parliament, who dyed at his house in the Strand on Munday September the 16. Anno. Dom. 1646. <hi>He married to his first wife Francis Daughter of Thomas Howard Earle of Suffolk, and by her had no Issue, he after married the Daughter of Sir Iohn Paulet and had no Issue.</hi>
+                  </p>
+               </div>
+               <div type="elegy">
+                  <head>The Funerall Elegie, of the Obiets of his Excellency Robert Earle of Essex.</head>
+                  <l>VVHat dismall accident is fall'n of late.</l>
+                  <l>That fills with grief our Kingdome &amp; the State?</l>
+                  <l>Sure it must be some universall blow,</l>
+                  <l>That makes a Sea of teares the land ore-slow.</l>
+                  <l>Or as an Earth-quake had great Brittaine shooke.</l>
+                  <l>Men are amaz'd, or else seeme Plannet strooke.</l>
+                  <pb n="14" facs="tcp:113912:14"/>
+                  <l>This weeping deluge, this eyes inundation,</l>
+                  <l>Bewrayes some mighty blow is given our Nation.</l>
+                  <l>T'is so, and such a stroke cannot befall</l>
+                  <l>On one the like whom we a Subject call.</l>
+                  <l>And therefore reader, if thou knowst not why</l>
+                  <l>Sad sorrow hath possessed each mans eye</l>
+                  <l>Then know that griefe this Land hath over-spread,</l>
+                  <l>Upon distracted thoughts of <hi>Essex dead.</hi>
+                  </l>
+                  <l>Oh! 'tis too true: have we not reason then,</l>
+                  <l>To mourn untill we have his like again?</l>
+                  <l>Two Kingdomes (next unto the King) 'tis knowne,</l>
+                  <l>On this good Peere had their affections thrown.</l>
+                  <l>But what avails high Eminence and Place,</l>
+                  <l>The Kingdomes favour, and the peoples grace?</l>
+                  <l>These are supports, but no preheminence</l>
+                  <l>'Gainst Death, to be a Buckler or Defence.</l>
+                  <l>For why? If any, or if all of these</l>
+                  <l>Could have put by this blow, or given some ease</l>
+                  <l>To this lov'd Lord, there's few withiu this Land,</l>
+                  <l>But would have lent him both a heart and hand,</l>
+                  <l>But he hath made a happy change in this,</l>
+                  <l>An earthly Earldome for a Crown of Blisse.</l>
+                  <l>He liv'd well, purposely to dye well too.</l>
+                  <l>And as his purpose was he so did doe.</l>
+                  <l>Death brings good men where good men should abide,</l>
+                  <l>If wicked men were good, they should have dy'd.</l>
+                  <l>We take our turnes, it skills not where or when,</l>
+                  <l>Provided that we dye to live againe.</l>
+                  <l>Scotland a friend, London an Interest.</l>
+                  <l>In this maine losse is too too manifest.</l>
+                  <l>You Souldiers that good Essex did attend,</l>
+                  <l>Let these lines to your sorrowes solace send.</l>
+                  <l>That though you have a curelesse cause of care,</l>
+                  <l>Yet in your griefes, three Kingdom's beare a share.</l>
+                  <l>And in sweete peace let rest his noble Dust.</l>
+                  <l>uutill the Resurrection of the just.</l>
+                  <l>When Soule aad Body both conjoyn'd againe.</l>
+                  <l>In never ending glory shall remaine.</l>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
